@@ -2,7 +2,7 @@
 
 This Flutter demo app designed for "Tübitak 2242" competition by <a href="https://www.tubitak.gov.tr/">Tübitak</a>
 
-You can see demo images from app in "app" folder and <a href="https://dart.dev/">dart</a> files in "lib" folder.
+You can see demo images from the app in the "app" folder and <a href="https://dart.dev/">dart</a> files in the "lib" folder.
 
 
 ## Getting Started
