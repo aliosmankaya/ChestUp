@@ -1,6 +1,8 @@
-# Spirometry-Ecg App
+# CHEST UP
 
-### This Flutter demo app designed for "Tübitak 2242" competition by <a href="https://www.tubitak.gov.tr/">Tübitak</a>
+### Spirometry-ECG App
+
+#### This Flutter demo app designed for "Tübitak 2242" competition by <a href="https://www.tubitak.gov.tr/">Tübitak</a>
 
 <p align="center">
   <img src="https://github.com/aliosmankaya/spiro_ecg/blob/main/app/login.PNG" alt="Login Page" width="250px" height="auto">&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/aliosmankaya/spiro_ecg/blob/main/app/new_user.PNG" alt="New User" width="250px" height="auto">
