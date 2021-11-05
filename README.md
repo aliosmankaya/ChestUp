@@ -4,7 +4,7 @@ This Flutter demo app designed for "Tübitak 2242" competition by <a href="https
 
 You can see demo images from the app in the "app" folder and <a href="https://dart.dev/">dart</a> files in the "lib" folder.
 
-![Login Page](https://github.com/aliosmankaya/spiro_ecg/blob/main/app/login.PNG =200x100)
+<img src="https://github.com/aliosmankaya/spiro_ecg/blob/main/app/login.PNG" alt="LoginPage" width="100" height="300">
 
 ## Getting Started
 
